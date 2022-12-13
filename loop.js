@@ -10,4 +10,4 @@ btn.onclick = ()=> {
     }
 
     alert("The sum is " + sum)
-};
+}
